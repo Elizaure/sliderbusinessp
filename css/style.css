@@ -16,7 +16,7 @@ body, hmtl{background: #ecf0f1; font-family: 'Cardo', sans-serif;}
 
 #slider-wrap{
 	width:600px;
-	height:520px;
+	height:550px;
 	position:relative;
 	overflow:hidden;
 }
@@ -44,14 +44,14 @@ body, hmtl{background: #ecf0f1; font-family: 'Cardo', sans-serif;}
 }
 
 #slider-wrap ul#slider li > div h3{
-	font-size:36px;
+	font-size:32px;
 	color: #5E4B8A;
 	font-family: Cardo;
 }
 
 #slider-wrap ul#slider li > div span{
 	font-family: Cardo;
-	font-size:24px;
+	font-size:20px;
 	color: #5E4B8A;
 }
 
